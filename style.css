@@ -15,20 +15,23 @@ h2 {
     color: black;
     font-size: 14px;
 }
+#Whats {
+    display: flex;
+}
 #IconeWpp {
-    height: 25px;
-    width: 25px;
+    height: 18px;
+    width: 18px;
 }
 #ImgPerfil {
     width: 121.25px;
+    height: auto;
     float: right;
-    margin-right: 2%;
 }
-#Wpp:link {
+a:link {
     color: blue;
     text-decoration:none;
 }
-#Wpp:hover {
+a:hover {
     color: darkmagenta;
 }
 div.title {
